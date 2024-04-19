@@ -1,0 +1,7 @@
+
+# .DS_Store will ignore files named .DS_Store
+
+# folderName/ will ignore an entire folder
+
+# *.log will ignore any files with the .log extension
+
